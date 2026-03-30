@@ -17,7 +17,7 @@ systems. Overcame critical technical challenges including Python version compati
 dependency management on macOS, and production-grade model monitoring. The project 
 showcases enterprise-level MLOps capabilities including CI/CD, model versioning, 
 and automated retraining triggers."
-
+```
 Key Achievements:
 • Built production-ready churn prediction model (AUC 0.85, F1 0.76)
 • Implemented comprehensive model monitoring with PSI drift detection
@@ -25,7 +25,7 @@ Key Achievements:
 • Developed 20+ unit tests with 80% pass rate
 • Solved Python 3.14 → 3.11.11 migration challenges
 • Deployed monitoring dashboard with real-time drift alerts
-
+```
 ## 🏗️ Architecture
 ![Architecture Diagram](./architecture.png)
 
