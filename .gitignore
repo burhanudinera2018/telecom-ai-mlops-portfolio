@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.log
+
+# Model artifacts (opsional - bisa diupload jika kecil)
+# model_registry/*.pkl
+# model_registry/*.onnx
+
+# Data files (jangan upload data besar)
+data/raw/*.csv
+data/processed/*.csv
+*.db
+
+# Monitoring reports
+monitoring_report.json
+monitoring/alerts.json
+
+# Jupyter notebooks (opsional)
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.yaml
+!configs/project_config.yaml
+
+# Logs
+*.log
