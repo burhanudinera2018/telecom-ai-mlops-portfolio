@@ -12,7 +12,7 @@
 Production-ready MLOps pipeline for telecom customer churn prediction with automated monitoring and drift detection.
 
 ## 🏗️ Architecture
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](./architecture.png)
 
 ## 📈 Key Metrics
 | Model | AUC | F1 Score | Status |
