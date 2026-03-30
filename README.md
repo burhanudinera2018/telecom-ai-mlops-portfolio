@@ -2,8 +2,11 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.11.11-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Code Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen.svg)](tests/)
-[![Tests](https://img.shields.io/badge/tests-4%2F5%20passing-blue.svg)](tests/)
+[![Code Style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
+[![Tests](https://img.shields.io/badge/tests-4%2F5%20passing-brightgreen)](tests/)
+[![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen)](tests/)
+[![MLOps](https://img.shields.io/badge/MLOps-Ready-blue)](https://mlops.community)
+[![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Compliant-green)](https://responsible.ai)
 
 ## 🎯 Executive Summary
 Production-ready MLOps pipeline for telecom customer churn prediction with automated monitoring and drift detection.
